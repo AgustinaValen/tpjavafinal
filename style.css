@@ -75,28 +75,30 @@ nav ul li a:hover{
 }
 .bienvenida p{
     color: rgb(251, 247, 247);
-    width: 700px;
-    padding-left: 50%;
+    text-align: right;
     padding-top: 12%;
-    text-align: end;
+    padding-left: 50%;
     
-  
-
+   
     
-    
+   
     
 }
 .identifica{
     background-color: rgb(134, 231, 231);
     text-align: center;
     font-family: rale;
-    src: url(Fuentes/Raleway-Regular.ttf)
+    src: url(Fuentes/Raleway-Regular.ttf);
+    margin-top: 10px;
  
 }
 .container{
     width: 100%;
     padding: 10px
 
+}
+.card-img-top{
+    height: 50%;
 }
 .formulario{
     background-color: antiquewhite;
